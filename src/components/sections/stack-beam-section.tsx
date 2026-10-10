@@ -349,12 +349,6 @@ export function StackBeamSection() {
               />
               <span>{isPaused ? t.pausedOrbits : t.activeOrbits}</span>
             </span>
-
-            {/* Interactive User Callout Hint */}
-            <div className="flex items-center gap-1.5 rounded-full border border-sky-500/20 bg-sky-50/60 dark:bg-sky-500/10 px-3 py-1 text-[11px] font-mono text-sky-700 dark:text-sky-300 backdrop-blur-sm">
-              <MousePointerClick className="h-3 w-3 text-sky-500 dark:text-sky-400 shrink-0 animate-bounce" />
-              <span>{t.hoverHint}</span>
-            </div>
           </div>
 
           {/* Interactive Selected Tech Spotlight Card */}
