@@ -1,0 +1,45 @@
+{
+  "profile": {
+    "avatar": "https://cdn.21st.dev/assets/mirror/ab/ab446b6268e5c557c5ab42bea462c11ba3f817ad4db9d6cb70c412b829f53568.jpg",
+    "name": "Bryan Zimbrão"
+  },
+  "hero": {
+    "parallaxLayer1": "/parallax/layer-1.webp",
+    "parallaxLayer2": "/parallax/layer-2.webp",
+    "parallaxLayer4": "/parallax/layer-4.webp",
+    "mountains": "/hero-mountains.jpg"
+  },
+  "videos": {
+    "ocean": {
+      "local": "/videos/ocean-small.webm",
+      "cdn": "https://cdn.magicui.design/ocean-small.webm"
+    }
+  },
+  "projects": {
+    "careplus": {
+      "image": "/projects/careplus.jpg",
+      "video": "/videos/ocean-small.webm",
+      "videoCdn": "https://cdn.magicui.design/ocean-small.webm"
+    },
+    "apexFinance": {
+      "image": "/projects/apex-finance.jpg"
+    },
+    "nexusMcp": {
+      "image": "/projects/nexus-mcp.jpg"
+    },
+    "cascadeUi": {
+      "image": "/projects/cascade-ui.jpg"
+    },
+    "hyperion3d": {
+      "image": "/projects/hyperion-3d.jpg"
+    },
+    "astraCloud": {
+      "image": "/projects/astra-cloud.jpg"
+    }
+  },
+  "icons": {
+    "zustand": "/icons/zustand.png",
+    "favicon": "/favicon.svg",
+    "iconsSvg": "/icons.svg"
+  }
+}
